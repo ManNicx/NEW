@@ -1,7 +1,7 @@
 
 body {background-color:white;}
-  div.head { color:white;
-    background-image: url(bg1.jpeg);
+  div.head { color:white;}
+  div.head{  background-image: url(bg1.jpeg);}
 
   }
   div.head {background-size: 100% 100%;
@@ -9,6 +9,6 @@ body {background-color:white;}
   text-align:Center;text-transform:Capitalize;
   line-height:50px;}
   
- Body{color:red;}
+ Body{color:black;}
   
   a {color:white; background-color:Blue;}
